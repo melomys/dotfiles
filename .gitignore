@@ -1,0 +1,13 @@
+/*
+!/.config
+/.config/*
+!/.config/aurman
+!/.config/i3
+!/.config/termite
+!/.config/compton
+!/.config/gtk3.0
+!/.config/polybar
+!.themes
+!.zprofile
+!.zshrc
+!.gitignore
