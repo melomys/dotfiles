@@ -125,3 +125,4 @@ export PYTHONPATH=/home/felix/FAHO/eunomia-library:/home/felix/IGMR/ChuckChuck/s
 export QI_PATH=/home/felix/IGMR/quality-inspector
 export DJANGO_DEVELOPMENT=true
 export LD_LIBRARY_PATH=/usr/lib/libreoffice
+export GDK_PIXBUF_MODULE_FILE=/usr/lib/gdk-pixbuf-2.0/2.10.0/loaders.cache
